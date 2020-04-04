@@ -1,0 +1,250 @@
+{
+	"Common": {
+		"0": {"FileName": "100","Text":"0"},
+		"1": {"FileName": "101","Text":"1"},
+		"2": {"FileName": "102","Text":"2"},
+		"3": {"FileName": "103","Text":"3"},
+		"4": {"FileName": "104","Text":"4"},
+		"5": {"FileName": "105","Text":"5"},
+		"6": {"FileName": "106","Text":"6"},
+		"7": {"FileName": "107","Text":"7"},
+		"8": {"FileName": "108","Text":"8"},
+		"9": {"FileName": "109","Text":"9"},
+		"AM": {"FileName": "110","Text":"AM"},
+		"PM": {"FileName": "111","Text":"PM"}
+	},
+	"EglishWeekdayFirstUppercase": {
+		"Monday": {"FileName": "250","Text": "Monday"},
+		"Tuesday": {"FileName": "251","Text": "Tuesday"},
+		"Wednesday": {"FileName": "252","Text": "Wednesday"},
+		"Thursday": {"FileName": "253","Text": "Thursday"},
+		"Friday": {"FileName": "254","Text": "Friday"},
+		"Saturday": {"FileName": "255","Text": "Saturday"},
+		"Sunday": {"FileName": "256","Text": "Sunday"}
+	},
+	"EnglishWeekdayFirstUppercaseShort": {
+		"Monday": {"FileName": "250","Text": "Mon"},
+		"Tuesday": {"FileName": "251","Text": "Tue"},
+		"Wednesday": {"FileName": "252","Text": "Wed"},
+		"Thursday": {"FileName": "253","Text": "Thu"},
+		"Friday": {"FileName": "254","Text": "Fri"},
+		"Saturday": {"FileName": "255","Text": "Sat"},
+		"Sunday": {"FileName": "256","Text": "Sun"}
+	},
+	"EnglishWeekdayAllUppercase": {
+		"Monday": {"FileName": "250","Text": "MONDAY"},
+		"Tuesday": {"FileName": "251","Text": "TUESDAY"},
+		"Wednesday": {"FileName": "252","Text": "WEDNESDAY"},
+		"Thursday": {"FileName": "253","Text": "THURSDAY"},
+		"Friday": {"FileName": "254","Text": "FRIDAY"},
+		"Saturday": {"FileName": "255","Text": "SATURDAY"},
+		"Sunday": {"FileName": "256","Text": "SUNDAY"}
+	},
+	"EnglishWeekdayAllUppercaseShort": {
+		"Monday": {"FileName": "250","Text": "MON"},
+		"Tuesday": {"FileName": "251","Text": "TUE"},
+		"Wednesday": {"FileName": "252","Text": "WED"},
+		"Thursday": {"FileName": "253","Text": "THU"},
+		"Friday": {"FileName": "254","Text": "FRI"},
+		"Saturday": {"FileName": "255","Text": "SAT"},
+		"Sunday": {"FileName": "256","Text": "SUN"}
+	},
+	"ItalianWeekdayFirstUppercase": {
+		"Monday": {"FileName": "250","Text": "Lunedi"},
+		"Tuesday": {"FileName": "251","Text": "Martedi"},
+		"Wednesday": {"FileName": "252","Text": "Mercoledi"},
+		"Thursday": {"FileName": "253","Text": "Giovedi"},
+		"Friday": {"FileName": "254","Text": "Venerdi"},
+		"Saturday": {"FileName": "255","Text": "Sabato"},
+		"Sunday": {"FileName": "256","Text": "Domenica"}
+	},
+	"ItalianWeekdayFirstUppercaseShort": {
+		"Monday": {"FileName": "250","Text": "Lun"},
+		"Tuesday": {"FileName": "251","Text": "Mar"},
+		"Wednesday": {"FileName": "252","Text": "Mer"},
+		"Thursday": {"FileName": "253","Text": "Gio"},
+		"Friday": {"FileName": "254","Text": "Ven"},
+		"Saturday": {"FileName": "255","Text": "Sab"},
+		"Sunday": {"FileName": "256","Text": "Dom"}
+	},
+	"ItalianWeekdayAllUppercase": {
+		"Monday": {"FileName": "250","Text": "LUNEDI"},
+		"Tuesday": {"FileName": "251","Text": "MARTEDI"},
+		"Wednesday": {"FileName": "252","Text": "MERCOLEDI"},
+		"Thursday": {"FileName": "253","Text": "GIOVEDI"},
+		"Friday": {"FileName": "254","Text": "VENERDI"},
+		"Saturday": {"FileName": "255","Text": "SABATO"},
+		"Sunday": {"FileName": "256","Text": "DOMENICA"}
+	},
+	"ItalianWeekdayAllUppercaseShort": {
+		"Monday": {"FileName": "250","Text": "LUN"},
+		"Tuesday": {"FileName": "251","Text": "MAR"},
+		"Wednesday": {"FileName": "252","Text": "MER"},
+		"Thursday": {"FileName": "253","Text": "GIO"},
+		"Friday": {"FileName": "254","Text": "VEN"},
+		"Saturday": {"FileName": "255","Text": "SAB"},
+		"Sunday": {"FileName": "256","Text": "DOM"}
+	},
+	"PortugueseWeekdayFirstUppercase": {	
+		"Monday": {"FileName": "250","Text": "Segunda-feira"},
+		"Tuesday": {"FileName": "251","Text": "Terça-feira"},
+		"Wednesday": {"FileName": "252","Text": "Quarta-feira"},
+		"Thursday": {"FileName": "253","Text": "Quinta-feira"},
+		"Friday": {"FileName": "254","Text": "Sexta-feira"},
+		"Saturday": {"FileName": "255","Text": "Sábado"},
+		"Sunday": {"FileName": "256","Text": "Domingo"}
+	},
+	"PortugueseWeekdayFirstUppercaseSimple": {	
+		"Monday": {"FileName": "250","Text": "Segunda feira"},
+		"Tuesday": {"FileName": "251","Text": "Terca feira"},
+		"Wednesday": {"FileName": "252","Text": "Quarta feira"},
+		"Thursday": {"FileName": "253","Text": "Quinta feira"},
+		"Friday": {"FileName": "254","Text": "Sexta feira"},
+		"Saturday": {"FileName": "255","Text": "Sabado"},
+		"Sunday": {"FileName": "256","Text": "Domingo"}
+	},
+	"PortugueseWeekdayFirstUppercaseMiddle": {	
+		"Monday": {"FileName": "250","Text": "Segunda"},
+		"Tuesday": {"FileName": "251","Text": "Terça"},
+		"Wednesday": {"FileName": "252","Text": "Quarta"},
+		"Thursday": {"FileName": "253","Text": "Quinta"},
+		"Friday": {"FileName": "254","Text": "Sexta"},
+		"Saturday": {"FileName": "255","Text": "Sábado"},
+		"Sunday": {"FileName": "256","Text": "Domingo"}
+	},
+	"PortugueseWeekdayFirstUppercaseMiddleSimple": {	
+		"Monday": {"FileName": "250","Text": "Segunda"},
+		"Tuesday": {"FileName": "251","Text": "Terca"},
+		"Wednesday": {"FileName": "252","Text": "Quarta"},
+		"Thursday": {"FileName": "253","Text": "Quinta"},
+		"Friday": {"FileName": "254","Text": "Sexta"},
+		"Saturday": {"FileName": "255","Text": "Sabado"},
+		"Sunday": {"FileName": "256","Text": "Domingo"}
+	},
+	"PortugueseWeekdayFirstUppercaseShort": {
+		"Monday": {"FileName": "250","Text": "Seg"},
+		"Tuesday": {"FileName": "251","Text": "Ter"},
+		"Wednesday": {"FileName": "252","Text": "Qua"},
+		"Thursday": {"FileName": "253","Text": "Qui"},
+		"Friday": {"FileName": "254","Text": "Sex"},
+		"Saturday": {"FileName": "255","Text": "Sab"},
+		"Sunday": {"FileName": "256","Text": "Dom"}
+	},
+	"PortugueseWeekdayAllUppercase": {
+		"Monday": {"FileName": "250","Text": "SEGUNDA-FEIRA"},
+		"Tuesday": {"FileName": "251","Text": "TERÇA-FEIRA"},
+		"Wednesday": {"FileName": "252","Text": "QUARTA-FEIRA"},
+		"Thursday": {"FileName": "253","Text": "QUINTA-FEIRA"},
+		"Friday": {"FileName": "254","Text": "SEXTA-FEIRA"},
+		"Saturday": {"FileName": "255","Text": "SÁBADO"},
+		"Sunday": {"FileName": "256","Text": "DOMINGO"}
+	},
+	"PortugueseWeekdayAllUppercaseSimple": {
+		"Monday": {"FileName": "250","Text": "SEGUNDA-FEIRA"},
+		"Tuesday": {"FileName": "251","Text": "TERCA-FEIRA"},
+		"Wednesday": {"FileName": "252","Text": "QUARTA-FEIRA"},
+		"Thursday": {"FileName": "253","Text": "QUINTA-FEIRA"},
+		"Friday": {"FileName": "254","Text": "SEXTA-FEIRA"},
+		"Saturday": {"FileName": "255","Text": "SABADO"},
+		"Sunday": {"FileName": "256","Text": "DOMINGO"}
+	},
+	"PortugueseWeekdayAllUppercaseMiddle": {	
+		"Monday": {"FileName": "250","Text": "SEGUNDA"},
+		"Tuesday": {"FileName": "251","Text": "TERÇA"},
+		"Wednesday": {"FileName": "252","Text": "QUARTA"},
+		"Thursday": {"FileName": "253","Text": "QUINTA"},
+		"Friday": {"FileName": "254","Text": "SEXTA"},
+		"Saturday": {"FileName": "255","Text": "SÁBADO"},
+		"Sunday": {"FileName": "256","Text": "DOMINGO"}
+	},
+	"PortugueseWeekdayAllUppercaseMiddleSimple": {	
+		"Monday": {"FileName": "250","Text": "SEGUNDA"},
+		"Tuesday": {"FileName": "251","Text": "TERCA"},
+		"Wednesday": {"FileName": "252","Text": "QUARTA"},
+		"Thursday": {"FileName": "253","Text": "QUINTA"},
+		"Friday": {"FileName": "254","Text": "SEXTA"},
+		"Saturday": {"FileName": "255","Text": "SABADO"},
+		"Sunday": {"FileName": "256","Text": "DOMINGO"}
+	},
+	"PortugueseWeekdayAllUppercaseShort": {
+		"Monday": {"FileName": "250","Text": "SEG"},
+		"Tuesday": {"FileName": "251","Text": "TER"},
+		"Wednesday": {"FileName": "252","Text": "QUA"},
+		"Thursday": {"FileName": "253","Text": "QUI"},
+		"Friday": {"FileName": "254","Text": "SEX"},
+		"Saturday": {"FileName": "255","Text": "SAB"},
+		"Sunday": {"FileName": "256","Text": "DOM"}
+	},
+	"SpanishWeekdayFirstUppercase": {	
+		"Monday": {"FileName": "250","Text": "Lunes"},
+		"Tuesday": {"FileName": "251","Text": "Martes"},
+		"Wednesday": {"FileName": "252","Text": "Miércoles"},
+		"Thursday": {"FileName": "253","Text": "Jueves"},
+		"Friday": {"FileName": "254","Text": "Viernes"},
+		"Saturday": {"FileName": "255","Text": "Sábado"},
+		"Sunday": {"FileName": "256","Text": "Domingo"}
+	},
+	"SpanishWeekdayFirstUppercaseSimple": {	
+		"Monday": {"FileName": "250","Text": "Lunes"},
+		"Tuesday": {"FileName": "251","Text": "Martes"},
+		"Wednesday": {"FileName": "252","Text": "Miercoles"},
+		"Thursday": {"FileName": "253","Text": "Jueves"},
+		"Friday": {"FileName": "254","Text": "Viernes"},
+		"Saturday": {"FileName": "255","Text": "Sabado"},
+		"Sunday": {"FileName": "256","Text": "Domingo"}
+	},	
+	"SpanishWeekdayFirstUppercaseShort": {
+		"Monday": {"FileName": "250","Text": "Lun"},
+		"Tuesday": {"FileName": "251","Text": "Mar"},
+		"Wednesday": {"FileName": "252","Text": "Mié"},
+		"Thursday": {"FileName": "253","Text": "Jue"},
+		"Friday": {"FileName": "254","Text": "Vie"},
+		"Saturday": {"FileName": "255","Text": "Sáb"},
+		"Sunday": {"FileName": "256","Text": "Dom"}
+	},
+	"SpanishWeekdayFirstUppercaseShortSimple": {
+		"Monday": {"FileName": "250","Text": "Lun"},
+		"Tuesday": {"FileName": "251","Text": "Mar"},
+		"Wednesday": {"FileName": "252","Text": "Mie"},
+		"Thursday": {"FileName": "253","Text": "Jue"},
+		"Friday": {"FileName": "254","Text": "Vie"},
+		"Saturday": {"FileName": "255","Text": "Sab"},
+		"Sunday": {"FileName": "256","Text": "Dom"}
+	},
+	"SpanishWeekdayAllUppercase": {
+		"Monday": {"FileName": "250","Text": "LUNES"},
+		"Tuesday": {"FileName": "251","Text": "MARTES"},
+		"Wednesday": {"FileName": "252","Text": "MIÉRCOLES"},
+		"Thursday": {"FileName": "253","Text": "JUEVES"},
+		"Friday": {"FileName": "254","Text": "VIERNES"},
+		"Saturday": {"FileName": "255","Text": "SÁBADO"},
+		"Sunday": {"FileName": "256","Text": "DOMINGO"}
+	},
+	"SpanishWeekdayAllUppercaseSimple": {
+		"Monday": {"FileName": "250","Text": "LUNES"},
+		"Tuesday": {"FileName": "251","Text": "MARTES"},
+		"Wednesday": {"FileName": "252","Text": "MIERCOLES"},
+		"Thursday": {"FileName": "253","Text": "JUEVES"},
+		"Friday": {"FileName": "254","Text": "VIERNES"},
+		"Saturday": {"FileName": "255","Text": "SABADO"},
+		"Sunday": {"FileName": "256","Text": "DOMINGO"}
+	},	
+	"SpanishWeekdayAllUppercaseShort": {
+		"Monday": {"FileName": "250","Text": "LUN"},
+		"Tuesday": {"FileName": "251","Text": "MAR"},
+		"Wednesday": {"FileName": "252","Text": "MIÉ"},
+		"Thursday": {"FileName": "253","Text": "JUE"},
+		"Friday": {"FileName": "254","Text": "VIE"},
+		"Saturday": {"FileName": "255","Text": "SÁB"},
+		"Sunday": {"FileName": "256","Text": "DOM"}
+	},
+	"SpanishWeekdayAllUppercaseShortSimple": {
+		"Monday": {"FileName": "250","Text": "LUN"},
+		"Tuesday": {"FileName": "251","Text": "MAR"},
+		"Wednesday": {"FileName": "252","Text": "MIE"},
+		"Thursday": {"FileName": "253","Text": "JUE"},
+		"Friday": {"FileName": "254","Text": "VIE"},
+		"Saturday": {"FileName": "255","Text": "SAB"},
+		"Sunday": {"FileName": "256","Text": "DOM"}
+	}
+}

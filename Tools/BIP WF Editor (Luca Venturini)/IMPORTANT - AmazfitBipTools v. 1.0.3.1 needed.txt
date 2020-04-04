@@ -1,0 +1,6 @@
+Please use AmazfitBipTools v. 1.0.3.1 to create and extract Bin files
+Usare AmazfitBipTools v. 1.0.3.1 per estrarre e comprimere i file Bin
+
+Download link:
+
+https://bitbucket.org/valeronm/amazfitbiptools/downloads/
