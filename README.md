@@ -1,5 +1,5 @@
 # WatchFace-BIP-SimpleWhiteDigital
-My Simple White Digital (red minutes) Amazfit BIP Watch Face.  Attempted to produce a clean, basic and elegant digital watch face with minimal clutter. No status, activity or weather icons.  This one is slightly complicated because of the text month names.
+My Simple White Digital (red minutes) Amazfit BIP Watch Face.  Attempted to produce a clean, basic and elegant digital watch face with minimal clutter. No status (other than small battery pips to indicate battery state at the bottom of the face), activity or weather icons.  This one is slightly complicated because of the text month names.
 
 Derived from https://amazfitwatchfaces.com/bip/view/28703
 
