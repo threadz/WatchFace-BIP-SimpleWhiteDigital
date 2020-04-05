@@ -1,5 +1,7 @@
 # WatchFace-BIP-SimpleWhiteDigital
-My Simple White Digital (red minutes) Amazfit BIP Watch Face.  Attempted to produce a clean, basic and elegant digital watch face with minimal clutter. No status, activity or weather icons.
+My Simple White Digital (red minutes) Amazfit BIP Watch Face.  Attempted to produce a clean, basic and elegant digital watch face with minimal clutter. No status, activity or weather icons.  This one is slightly complicated because of the text month names.
+
+Derived from https://amazfitwatchfaces.com/bip/view/28703
 
 ## Workflow
 
@@ -23,8 +25,6 @@ https://apps.apple.com/us/app/amaztools/id1386033880
 
 |                                                                             Face                                                                            | Version | Description                                                                                                                                                                  |
 |:-----------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------:|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Watchface ](https://github.com/threadz/WatchFace-BIP-RoundDial/blob/master/Releases/RoundDial_packed_V1.0_animated.gif ) |   [1.0](https://github.com/threadz/WatchFace-BIP-RoundDial/blob/master/Releases/RoundDial_packed_V1.0.bin)   | Basic round dial. No status, activity or weather icons.                                                                                                                |
-| ![Watchface ](https://github.com/threadz/WatchFace-BIP-RoundDial/blob/master/Releases/RoundDial_packed_V1.1_animated.gif ) |   [1.1](https://github.com/threadz/WatchFace-BIP-RoundDial/blob/master/Releases/RoundDial_packed_V1.1.bin)   | Square dial with rail track. No status, activity or weather icons.                                                                                                   |
-| ![Watchface ](https://github.com/threadz/WatchFace-BIP-RoundDial/blob/master/Releases/RoundDial_packed_V1.2_animated.gif ) |   [1.2](https://github.com/threadz/WatchFace-BIP-RoundDial/blob/master/Releases/RoundDial_packed_V1.2.bin)   | Thicker hands and larger centre pin.                                                                                                                                   |
+| ![Watchface ](https://github.com/threadz/WatchFace-BIP-SimpleWhiteDigital/blob/master/Releases/SimpleWhiteDigital_24h_packed_animated_V1.0.gif ) |   [1.0](https://github.com/threadz/WatchFace-BIP-RoundDial/blob/master/Releases/SimpleWhiteDigital_24h_packed_V1.0.bin)   | Basic white digital with red minutes. Only battery status at the bottom of the face. icons.                                                                                                                |
 
   
