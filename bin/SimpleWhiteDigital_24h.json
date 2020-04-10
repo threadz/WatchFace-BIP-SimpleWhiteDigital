@@ -9,41 +9,42 @@
     "Time": {
         "Hours": {
             "Tens": {
-                "X": 0,
-                "Y": 64,
+                "X": 6,
+                "Y": 38,
                 "ImageIndex": 1,
                 "ImagesCount": 10
             },
             "Ones": {
-                "X": 36,
-                "Y": 64,
+                "X": 42,
+                "Y": 38,
                 "ImageIndex": 1,
                 "ImagesCount": 10
             }
         },
         "Minutes": {
             "Tens": {
-                "X": 90,
-                "Y": 64,
+                "X": 94,
+                "Y": 38,
                 "ImageIndex": 11,
                 "ImagesCount": 10
             },
             "Ones": {
-                "X": 126,
-                "Y": 64,
+                "X": 130,
+                "Y": 38,
                 "ImageIndex": 11,
                 "ImagesCount": 10
             }
-        }
+        },
+        "DrawingOrder": "1234"
     },
     "Date": {
         "MonthAndDay": {
             "Separate": {
                 "Month": {
                     "TopLeftX": -176,
-                    "TopLeftY": 124,
+                    "TopLeftY": 146,
                     "BottomRightX": 56,
-                    "BottomRightY": 140,
+                    "BottomRightY": 162,
                     "Alignment": "TopLeft",
                     "Spacing": -162,
                     "ImageIndex": 21,
@@ -51,9 +52,9 @@
                 },
                 "Day": {
                     "TopLeftX": 138,
-                    "TopLeftY": 124,
+                    "TopLeftY": 146,
                     "BottomRightX": 162,
-                    "BottomRightY": 140,
+                    "BottomRightY": 162,
                     "Alignment": "TopLeft",
                     "Spacing": 0,
                     "ImageIndex": 31,
@@ -65,7 +66,7 @@
         },
         "WeekDay": {
             "X": 32,
-            "Y": 36,
+            "Y": 15,
             "ImageIndex": 41,
             "ImagesCount": 7
         }
@@ -73,7 +74,7 @@
     "Battery": {
         "Icon": {
             "X": 79,
-            "Y": 164,
+            "Y": 167,
             "ImageIndex": 48,
             "ImagesCount": 6
         }
