@@ -73,10 +73,10 @@
     },
     "Battery": {
         "Icon": {
-            "X": 79,
-            "Y": 167,
+            "X": 86,
+            "Y": 41,
             "ImageIndex": 48,
-            "ImagesCount": 6
+            "ImagesCount": 13
         }
     }
 }
